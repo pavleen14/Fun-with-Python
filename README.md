@@ -1,4 +1,4 @@
-# <img src ="https://media.giphy.com/media/10b7yI48cD31K0/giphy.gif" width ="40" height = "40" />  Fun with Python - It is what it is!
+# <img src ="https://media.giphy.com/media/10b7yI48cD31K0/giphy.gif" width ="70" height = "60" />  Fun with Python - It is what it is!
 
 
 If you want to do some real fun with Python, then do check this space out. I did this when I was a beginner in Python and was exploring how easy, interactive and fun Python could be. 
