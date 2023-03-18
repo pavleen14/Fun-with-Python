@@ -16,6 +16,6 @@ by providing them with a virtual canvas and Tkinter is the GUI package. <br>
 Found this old collection and thought of sharing it here!
 
 Quick Update : Mar 17, 2023
-Adding JenkinsFile to this Repo, for triggering build whenever there is a code change.
+Adding JenkinsFile to this Repo, trying out MultiBranch Pipeline!
 
 
